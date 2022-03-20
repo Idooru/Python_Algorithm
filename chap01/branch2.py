@@ -1,8 +1,8 @@
-n = int(input('정수를 입력하세요 : '))
+n = int(input("정수를 입력하세요 : "))
 
 if n == 1:
-    print('A')
+    print("A")
 elif n == 2:
-    print('B')
+    print("B")
 elif n == 3:
-    print('C')
+    print("C")

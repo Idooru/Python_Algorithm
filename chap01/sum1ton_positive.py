@@ -1,4 +1,8 @@
-n = int(input("정수를 입력하세요  : "))
+while True:
+    n = int(input("n값을 입력하세요 : "))
+    if n > 0:
+        break
+
 sum = 0
 
 for i in range(1, n + 1):
